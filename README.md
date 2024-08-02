@@ -96,6 +96,8 @@ This project uses HTTP Basic Authentication. Use the following credentials:
 
 The application will be running at `http://127.0.0.1:8000`.
 
+The Swagger docs will be available at `http://127.0.0.1:8000/docs`.
+
 ## Development
 
 - To modify the file summary extraction logic, update the `summary_service.py` file.
